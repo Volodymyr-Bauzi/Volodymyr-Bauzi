@@ -1,5 +1,5 @@
 <div>
-  //<img align="right" width="150em" src="https://komarev.com/ghpvc/?username=Volodymyr-Bauzi&color=blue&style=flat" alt="volodymyrshavel">
+  <img align="right" width="150em" src="https://komarev.com/ghpvc/?username=Volodymyr-Bauzi&color=blue&style=flat" alt="volodymyrshavel">
   <h1 align="left">Hello there 👋, I'm Shavel Volodymyr<h1/>
   <div align="left">
     <ul>
