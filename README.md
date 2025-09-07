@@ -30,6 +30,4 @@
 <br><br>
 
 ## 👦🏻 &nbsp;Social Links
-<p>
-[![My Discord (239030317036339201)](https://img.shields.io/badge/My-Discord-%235865F2.svg)](https://discord.com/users/239030317036339201)
-</p>
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/239030317036339201)
