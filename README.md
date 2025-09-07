@@ -14,14 +14,15 @@
 
   
 ## ⚙️ &nbsp;Main stacks
-![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
+![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## ⚙️ &nbsp;Another stacks I'm familiar
 
-![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Electron.js](https://img.shields.io/badge/-electron-F1C40F?style=for-the-badge&labelColor=17202A&logo=electron&logoColor=61DBFB)
+![Discord.js](https://discord.js.org/apple-touch-icon.png)
 
 ## 📊 &nbsp;Github analytics
 <img width="530em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=volodymyr-bauzi&show_icons=true&theme=vision-friendly-dark" alt="Volodymyr's stats"/>
