@@ -22,7 +22,7 @@
 ## ⚙️ &nbsp;Another stacks I'm familiar
 
 ![Electron.js](https://img.shields.io/badge/-electron-F1C40F?style=for-the-badge&labelColor=17202A&logo=electron&logoColor=61DBFB)
-![Discord.js](https://discord.js.org/apple-touch-icon.png)
+![Discord.js](https://img.shields.io/badge/discord.js-javascript-blue?logo=javascript)
 
 ## 📊 &nbsp;Github analytics
 <img width="530em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=volodymyr-bauzi&show_icons=true&theme=vision-friendly-dark" alt="Volodymyr's stats"/>
